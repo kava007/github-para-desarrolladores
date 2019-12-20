@@ -2,4 +2,4 @@
 
 github para desarrolladores
 
-[Visita mi blog] (http://carlossolis.mobi)
+[Visita mi blog](http://carlossolis.mobi)
